@@ -1,0 +1,413 @@
+d.name,count(r)
+Sangareddy,1
+Jodhpur,11
+Tiruchirappalli,5
+Howrah,79
+South Andaman,10
+Bulandshahar,29
+Barabanki,270
+Ramanagara,2
+Adilabad,2
+Sitapur,12
+Ludhiana,60
+Narsinghpur,8
+Washim,1
+Kolar,11
+Solapur,34
+Chennai,232
+Gwalior,2
+Hisar,6
+Faridabad,191
+Sitamarhi,2
+Sonbhadra,14
+Ambala,1
+Mehsana,22
+Dhule,15
+West Delhi,4
+Nashik,205
+Sonepat,15
+Bilaspur,30
+Sabarkatha,3
+Jhunjhunu,2
+Paschim Bardhaman,10
+Thanjavur,5
+Ranchi,47
+Munger,1
+Gautam Buddh Nagar,193
+Osmanabad,2
+Rewa,3
+Seraikela Kharsawan,14
+Patan,82
+Kaimur,2
+Pondicherry,75
+Sambhal,4
+East Delhi,5
+Mandsaur,2
+Darrang,2
+Agar Malwa,3
+Chamoli,14
+Jalore,2
+Sangrur,6
+Kamrup Metropolitan,23
+Kullu,4
+Khammam,20
+Dehradun,104
+Kamareddy,1
+Amravati,7
+Tiruvallur,134
+Rayagada,2
+Jhansi,2
+Udham Singh Nagar,201
+Rajkot,20
+West Medinipur,29
+Mandya,3
+Kolhapur,54
+Bikaner,2
+Ratlam,8
+Hassan,17
+Rudraprayag,6
+Alipurduar,2
+Bareilly,16
+Ri-Bhoi,1
+Barpeta,11
+Varanasi,11
+Akola,5
+Kanchipuram,130
+Belagavi,33
+Ajmer,13
+Porbandar,7
+Devbhoomi Dwarka,1
+Khargone,9
+Amritsar,5
+Sundargarh,29
+Mysuru,86
+Baran,6
+Kannur,1
+Chikkamagaluru,3
+West Godavari,21
+Koraput,1
+Buldhana,2
+Srikakulam,25
+Yamuna Nagar,10
+Alwar,109
+Dharmapuri,4
+Ferozepur,8
+Jhajjar,17
+East Godavari,357
+Bokaro,8
+Uttarkashi,2
+Dewas,15
+Sirohi,4
+Bhind,12
+Cuddalore,10
+Chamba,3
+Suryapet,2
+Samba,8
+Etah,1
+South Goa,38
+Sonitpur,8
+Sivasagar,5
+Jammu,25
+Baloda Bazar,1
+Sawai Madhopur,1
+East Singhbhum,33
+Rohtas,2
+Dharwad,23
+Thrissur,5
+Lohardaga,1
+Perambalur,6
+Rampur,9
+Sultanpur,6
+Jabalpur,7
+Gaya,3
+Karimnagar,29
+Erode,19
+Jalandhar,24
+Kadapa,11
+Sahibzada Ajit Singh Nagar,24
+Wardha,3
+Godda,2
+Ernakulam,24
+Meerut,13
+Balasore,6
+Udaipur,12
+Madhubani,1
+Mewat,2
+Cuttack,4
+Vellore,27
+Tapi,2
+Chhindwara,12
+Nabarangpur,1
+East Sikkim,5
+Gir Somnath,1
+Raigad,632
+Patiala,6
+Bharatpur,1
+Sangli,10
+Palghar,48
+South 24 Parganas,16
+Mahabubnagar,18
+Balrampur,4
+Nagaon,1
+Jalpaiguri,25
+Badaun,5
+Nilgiris,2
+Dantewada,4
+Kushinagar,3
+Jorhat,2
+Kota,13
+Daman,112
+North 24 Parganas,38
+Angul,28
+Kachchh,174
+Palwal,63
+Sivaganga,4
+Bhandara,11
+Ballia,1
+Pithoragarh,1
+Churachandpur,1
+Kangra,244
+Raigarh,33
+Sidhi,1
+Supaul,1
+Shimla,11
+Deoghar,2
+East Jaintia Hills,2
+Virudhunagar,6
+Anantapuram,46
+Sambalpur,3
+Banswara,7
+Goalpara,1
+Yadadri Bhuvanagiri,4
+Indore,50
+Thane,335
+Gurdaspur,3
+Dhanbad,27
+Rupnagar,92
+Davanagere,2
+Gorakhpur,4
+Saharanpur,20
+Shahdol,270
+Panipat,6
+Thoothukudi,21
+Bhagalpur,10
+Sri Ganganagar,2
+Kolkata,197
+Bathinda,3
+Karnal,6
+Ghaziabad,133
+Sirmaur,46
+Bharuch,488
+Gadchiroli,5
+Bardhaman,46
+Jajpur,32
+Basti,1
+Una,4
+Vadodara,372
+Raipur,36
+Bangalore Rural,113
+Bellary,20
+Bhiwani,3
+Ramgarh,8
+Hazaribagh,4
+Lakhimpur Kheri,3
+Ambedkar Nagar,8
+Mon,1
+Korba,9
+Bhavnagar,29
+Auraiya,7
+Satna,10
+Guna,2
+Rewari,50
+Uttara Kannada,4
+Warangal,11
+Kodagu,1
+Surendranagar,6
+Koppal,9
+Rajnandgaon,7
+Balangir,1
+Tonk,8
+Surat,338
+Pune,779
+Barnala,189
+Aligarh,8
+Nandurbar,1
+Bhopal,32
+Dibrugarh,4
+Durg,26
+Gadag,5
+Jhalawar,1
+Latur,1
+Dhar,22
+Sikar,2
+Nadia,2
+Golaghat,3
+Seoni,1
+Anand,23
+Salem,31
+Hoshiarpur,31
+Raisen,32
+Hailakandi,1
+Banaskantha,2
+Shahjahanpur,5
+Madurai,19
+Bangalore Urban,389
+Morena,8
+Tirunelveli,78
+Theni,3
+Nainital,7
+Kanpur Nagar,21
+Bhilwara,8
+Palamu,1
+Bidar,2
+Amroha,6
+Fazilka,6
+Chandrapur,18
+Yavatmal,14
+Murshidabad,1
+Barmer,3
+Fatehpur,3
+Raichur,6
+Navsari,1
+South East Delhi,20
+Rajsamand,4
+Valsad,126
+Tinsukia,7
+Hoshangabad,8
+Unnao,6
+Tumkur,8
+Buxar,2
+Chittoor,46
+Chitradurga,42
+Ujjain,10
+Kheda,15
+Solan,175
+Jalgaon,35
+Chhatarpur,1
+Janjgir-Champa,2
+Hooghly,28
+Mumbai,176
+Dadra and Nagar Haveli,449
+Rajgarh,2
+Guntur,22
+Karbi Anglong,1
+Junagadh,4
+Tiruppur,37
+Bahraich,3
+Parbhani,28
+Jamnagar,68
+Medak,110
+Kottayam,5
+Beed,5
+Pudukkottai,13
+Sindhudurg,3
+Nayagarh,1
+Nagpur,459
+Haveri,2
+Satara,60
+Nanded,8
+Pali,2
+South Delhi,14
+Aurangabad,246
+Moradabad,13
+Jaisalmer,38
+Hyderabad,159
+Katni,6
+Chikballapur,18
+Agra,16
+Pathankot,20
+South Sikkim,5
+Chandigarh,83
+Coimbatore,98
+Mathura,7
+Begusarai,2
+Khordha,36
+Nellore,30
+Patna,35
+Rae Bareli,12
+Panchmahal,39
+Jaunpur,8
+Amethi,1
+Purba Medinipur,24
+Kanyakumari,26
+Vishakhapatnam,114
+Hapur,4
+Nizamabad,8
+Krishnagiri,59
+Thiruvananthapuram,5
+Delhi,81
+Alappuzha,10
+Nalgonda,41
+Ramanathapuram,1
+Betul,1
+Udupi,10
+Ahmedabad,357
+Sehore,64
+Chittaurgarh,29
+Vizianagaram,22
+Ganjam,7
+Hamirpur,4
+Anuppur,1
+Khunti,1
+Singrauli,19
+Purulia,7
+Jagatsinghpur,2
+Namakkal,2
+Kendujhar,38
+Nagapattinam,4
+Gurgaon,167
+Kathua,3
+Gandhinagar,87
+Chatra,4
+Prakasam,27
+Rohtak,5
+Dhenkanal,268
+Sri Muktsar Sahib,1
+Champawat,1
+Kurnool,37
+Shimoga,4
+Dindigul,13
+Mumbai Suburban,166
+North Delhi,1
+Krishna,27
+West Singhbhum,4
+Dakshina Kannada,4
+Muzaffarpur,3
+Lucknow,39
+Neemuch,1
+Gulbarga,13
+Vaishali,6
+Shajapur,8
+Amreli,5
+Palakkad,15
+Haridwar,232
+Kapurthala,4
+Kanpur Dehat,1
+Gonda,2
+Koriya,2
+Bijnor,7
+Jaipur,142
+Sant Kabir Nagar,1
+Pathanamthitta,2
+Ratnagiri,29
+Panchkula,33
+Ariyalur,5
+Muzaffarnagar,12
+Mandi,1
+Samastipur,1
+Darjeeling,26
+Karur,6
+North Goa,80
+Moga,13
+Villupuram,14
+Kamrup,85
+Tarn Taran,1
+Jharsuguda,3
+Bankura,12
+Ranga Reddy,114
+Yanam,2
+Ahmednagar,21
+West Sikkim,6
+Tiruvannamalai,5
+Mayurbhanj,3
+Balaghat,4
