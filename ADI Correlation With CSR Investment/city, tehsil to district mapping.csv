@@ -1,0 +1,642 @@
+city/ town/ tehsil,district,constituency,No of factories
+adilabad,adilabad,adilabad,2
+agra,agra,agra,16
+ahmedabad,ahmedabad,ahmedabad east,175
+ahmedabad,ahmedabad,ahmedabad west,182
+moraiya,ahmedabad,ahmedabad west,4
+vastrapur lake,ahmedabad,ahmedabad west,1
+ahmednagar,ahmednagar,ahmednagar,21
+ajmer,ajmer,ajmer,13
+nasirabad,ajmer,ajmer,1
+akola,akola,akola,5
+alappuzha,alappuzha,alappuzha,10
+aligarh,aligarh,aligarh,9
+alipurduar,alipurduar,alipurduar,2
+allahabad,allahabad,allahabad,275
+champawat,champawat,almora,1
+pithoragarh,pithoragarh,almora,1
+alwar,alwar,alwar,101
+behror,alwar,alwar,1
+bhiwadi,alwar,alwar,7
+pathredi,alwar,alwar,1
+amalapuram,amalapuram,amalapuram,1
+east godavari,east godavari,amalapuram,356
+ambala,ambala,ambala,1
+panchkula,panchkula,ambala,33
+yamuna nagar,yamuna nagar,ambala,10
+ambedkar nagar,ambedkar nagar,ambedkar nagar,8
+amethi,amethi,amethi,1
+amravati,amravati,amravati,7
+amreli,amreli,amreli,5
+babarkot,amreli,amreli,7
+amritsar,amritsar,amritsar,5
+amroha,amroha,amroha,6
+ravikamatham,vishakhapatnam,ANAKAPALLE,1
+anand,anand,anand,23
+kurali,Sahibzada Ajit Singh Nagar,anandpur sahib,3
+mahilpur,Hoshiarpur,anandpur sahib,1
+mohali,Sahibzada Ajit Singh Nagar,anandpur sahib,2
+rupnagar,rupnagar (PB),anandpur sahib,92
+sahibzada ajit singh nagar,sahibzada ajit singh nagar,anandpur sahib,23
+anantapur,anantapur,anantapur,46
+south andaman,south andaman,ANDAMAN AND NICOBAR,10
+palakonda,srikakulam,araku,1
+naharlagun,papum pare,arunachal west,2
+asansol,asansol,asansol,6
+ganjam,ganjam,aska,7
+aurangabad,Aurangabad (BR),Aurangabad (BR),0
+aurangabad,Aurangabad (MH),Aurangabad (MH),125
+karbi anglong,karbi anglong,autnomous district,2
+badaun,badaun,badaun,5
+bahraich,bahraich,bahraich,3
+balaghat,balaghat,balaghat,4
+seoni,seoni,balaghat,1
+balangir,balangir,balangir,1
+balasore,balasore,balasore,
+ballia,ballia,ballia,6
+balrampur,balrampur,balrampur,1
+bangalore rural,bangalore rural,bangalore rural,126
+jigani,Bangalore Urban,bangalore rural,5
+ramanagara,ramanagara,bangalore rural,2
+bangalore urban,bangalore urban,bangalore south,380
+north 24 parganas,north 24 parganas,bangaon,38
+bankura,bankura,bankura,12
+"banswada, banswara","banswada, banswara",banswara,7
+bhattiprolu,guntur,bapatla,1
+chirala,Prakasam,bapatla,2
+barabanki,barabanki,barabanki,270
+jejuri,pune,baramati,1
+uri,baramulla,baramulla,1
+durgapur,Paschim Bardhaman,BARDHAMAN-DURGAPUR,4
+bardhaman,bardhaman,bardhman purba,47
+banskopa,bardhaman,Bardhman-durgapur,5
+tapi,tapi,bardoli,2
+bareilly,bareilly,bareilly,16
+barmer,barmer,barmer,3
+jaisalmer,jaisalmer,barmer,39
+barpeta,barpeta,barpeta,11
+dantewada,dantewada,bastar,4
+basti,basti,basti,1
+bathinda,bathinda,bathinda,3
+beed,beed,beed,5
+parlli part,beed,beed,1
+begusarai,begusarai,begusarai,2
+belgaum,belgaum,belagavi,36
+bellary,bellary,bellary,19
+donimalai township,Bellary,bellary,2
+toranagallu,Bellary,bellary,3
+sindhigan,ganjam,berhampur,1
+betul,betul,betul,1
+hutt,hutt,betul,1
+bhagalpur,bhagalpur,bhagalpur,10
+bhandara,bhandara,Bhandara-gondiya,11
+mohadi,bhandara,Bhandara-gondiya,2
+bharatpur,bharatpur,bharatpur,1
+ankleshwar,bharuch,bharuch,28
+bharuch,bharuch,bharuch,475
+dahej,Bharuch,bharuch,6
+panoli,Bharuch,bharuch,1
+bhavnagar,bhavnagar,bhavnagar,28
+bhilwara,bhilwara,bhilwara,8
+bhind,bhind,bhind,12
+ghirongi,Bhind,bhind,1
+malanpur,bhind,bhind,1
+badlapur,thane,bhiwandi,23
+bhiwandi,bhiwandi,bhiwandi,1
+bhiwani,bhiwani,bhiwani,3
+shapelly,nalgonda,bhongir,9
+bhopal,bhopal,bhopal,32
+bhubaneswar,bhubaneswar,bhubaneswar,3
+khordha,khordha,bhubaneswar,36
+bidar,bidar,bidar,2
+kudgi,Bijapur,Bijapur,7
+bijnor,bijnor,bijnor,7
+bikaner,bikaner,bikaner,2
+bilaspur,bilaspur,bilaspur,7
+bulandshahar,bulandshahar,bulandshahar,29
+buldhana,buldhana,buldhana,2
+buxar,buxar,buxar,2
+aluva,Ernakulam,Chalakudy,83
+chandigarh,chandigarh,chandigarh,1
+chandrapur,chandrapur,chandrapur,21
+chatra,chatra,chatra,4
+chennai,chennai,chennai central,233
+chennai,chennai,chennai north,1
+chennai,chennai,chennai south,1
+ranga reddy,ranga reddy,chevella,116
+chhindwara,chhindwara,chhindwara,29
+ariyalur,ariyalur,Chidambaram,1
+chokkahalli,Bangalore Rural,Chikballapur,1
+"chikkaballapur, chikballapur","chikkaballapur, chikballapur",chikkaballapur,1
+raibag,belagavi,chikkodi,2
+kovvur,West Godavari,chitoor,1
+chitradurga,chitradurga,chitradurga,42
+chittaurgarh,chittaurgarh,chittaurgarh,29
+chittoor,chittoor,chittoor,45
+digavamaghm,Chittoor,chittoor,1
+kalakada,Chittoor,chittoor,1
+bogampatti,Coimbatore,coimbatore,1
+coimbatore,coimbatore,coimbatore,104
+mayileripalayam,Coimbatore,coimbatore,1
+cuddalore,cuddalore,cuddalore,10
+cuttack,cuttack,cuttack,9
+"dadra, dadra and nagar haveli","dadra, dadra and nagar haveli",dadra and nagar haveli,465
+dakshina kannada,dakshina kannada,dakshina kannada,4
+mangalore,Dakshina Kannada,dakshina kannada,7
+daman,daman,daman and diu,112
+kadaiya,Daman,daman and diu,1
+darjeeling,darjeeling,darjeeling,26
+siliguri,darjeeling,darjeeling,1
+thanagazi,alwar,dausa,1
+davanagere,davanagere,davanagere,2
+dehradun,dehradun,dehradun,104
+jharsuguda,jharsuguda,deogarh,3
+"dewas, agar malwa ","dewas, agar malwa ",dewas,15
+shajapur,shajapur,dewas,8
+bokaro steel city,bokaro,dhanbad,2
+dhanbad,dhanbad,dhanbad,27
+sindri,dhanbad,dhanbad,3
+dhar,dhar,dhar,22
+pithampur,dhar,dhar,23
+dharmapuri,dharmapuri,dharmapuri,4
+thoppur,salem,dharmapuri,1
+dharwad,dharwad,dharwad,23
+hubli,Dharwad,dharwad,2
+angul,angul,dhenkanal,1
+dhenkanal,dhenkanal,dhenkanal,268
+kharagprasad,Dhenkanal,dhenkanal,6
+goalpara,goalpara,dhubri,1
+dhule,dhule,dhule,14
+malegaon,malegaon,dhule,1
+dibrugarh,dibrugarh,dibrugarh,7
+tinsukia,tinsukia,dibrugarh,14
+dindigul,dindigul,dindigul,16
+sempatty,dindigul,dindigul,1
+bhilai,durg,durg,4
+durg,durg,durg,22
+east delhi,east delhi,east delhi,5
+south east delhi,south east delhi,east delhi,20
+west godavari,west godavari,eluru,23
+ernakulam,Ernakulam,Ernakulam,24
+kakkanad,Ernakulam,Ernakulam,1
+kochi,Ernakulam,Ernakulam,8
+erode,erode,erode,20
+etah,etah,etah,1
+auraiya,auraiya,etawah,10
+dudhola,Palwal,faridabad,5
+faridabad,faridabad,faridabad,195
+gadhpuri,Palwal,faridabad,4
+palwal,palwal,faridabad,85
+moga,moga,faridkot,13
+fatehpur,fatehpur,fatehpur,3
+fazilka,fazilka,firozpur,6
+"ferozepur, FIROZPUR","ferozepur, FIROZPUR",firozpur,8
+sri muktsar sahib,sri muktsar sahib,FIROZPUR,1
+gadchiroli,gadchiroli,Gadchiroli-Chimur,5
+"gandhinagar, ghandhinagar","gandhinagar, ghandhinagar",gandhinagar,87
+kalol,Gandhinagar,gandhinagar,4
+kalol ina,Gandhinagar,gandhinagar,1
+moti bhoyan,Gandhinagar,gandhinagar,2
+por,Gandhinagar,gandhinagar,1
+sanand,ahmedabad,gandhinagar,1
+sri ganganagar,sri ganganagar,ganganagar,2
+chamoli,chamoli,garhwal,14
+kotdwar,kotdwar,garhwal,3
+rudraprayag,rudraprayag,garhwal,6
+gautam buddh nagar,gautam buddh nagar,gautam buddh nagar,195
+greater noida,Gautam Budh Nagar,gautam buddh nagar,2
+noida,Gautam Budh Nagar,gautam buddh nagar,37
+gaya,gaya,gaya,1
+ghaziabad,ghaziabad,ghaziabad,133
+bhandaridah,bokaro,giridih,2
+bokaro,bokaro,giridih,4
+deoghar,deoghar,godda,2
+godda,godda,godda,2
+gonda,gonda,gonda,2
+gorakhpur,gorakhpur,gorakhpur,4
+gulbarga,gulbarga,gulbarga,14
+guna,guna,guna,2
+guntur,guntur,guntur,22
+gurdaspur,gurdaspur,gurdaspur,3
+pathankot,pathankot,gurdaspur,20
+bawal,rewari,gurgaon,1
+dharuhera,Rewari,gurgaon,3
+gurgaon,gurgaon,gurgaon,177
+khol,Rewari,gurgaon,1
+mewat,nuh,gurgaon,2
+rewari,rewari,gurgaon,46
+suthana,rewari,gurgaon,2
+manesar,gurugram,gurugram,2
+guwahati,Kamrup Metropolitan,guwahati,2
+kamrup,kamrup,guwahati,85
+kamrup metropolitan,kamrup metropolitan,guwahati,23
+gwalior,gwalior,gwalior,2
+hamirpur,hamirpur,hamirpur,2
+padra,padra,hamirpur,1
+una,una,hamirpur,4
+haridwar,haridwar,haridwar,232
+hassan,hassan,hassan,17
+talandage,Kolhapur,hatkanangle,2
+gadag,gadag,haveri,5
+haveri,haveri,haveri,2
+hazaribagh,hazaribagh,hazaribagh,4
+patratu,ramgarh (JH),hazaribagh,1
+ramgarh,ramgarh (JH),hazaribagh,8
+bobbili,Vizianagaram,hindupur,1
+hisar,hisar,hisar,6
+hooghly,hooghly,hooghly,30
+hoshangabad,hoshangabad,hoshangabad,1
+narsinghpur,narsinghpur,hoshangabad,8
+hoshiarpur,hoshiarpur,hoshiarpur,31
+amraberia,howrah,howrah,2
+howrah,howrah,howrah,78
+bhuvanagiri,yadadri bhuvanagiri,hyderabad,4
+hyderabad,hyderabad,hyderabad,161
+idukki,idukki,idukki,2
+munnar,idukki,idukki,1
+indore,indore,indore,50
+jabalpur,jabalpur,jabalpur,7
+jagatsinghpur,jagatsinghpur,jagatsinghpur,2
+jaipur,jaipur,jaipur,142
+kotputli,jaipur,jaipur rural,1
+"jajapur, jajpur ","jajapur, jajpur ",jajpur,32
+jalandhar,jalandhar,jalandhar,24
+bambhori pr. Chandsar,jalgaon,jalgaon,2
+jalgaon,jalgaon,jalgaon,33
+chittegaon,Aurangabad (MH),jalna,1
+gangapur jahagir,Aurangabad (MH),jalna,4
+abu road,sirohi,Jalore,8
+jalore,sirohi,Jalore,2
+sirohi,sirohi,Jalore,3
+jalpaiguri,jalpaiguri,jalpaiguri,25
+chak ratnu,Jammu,jammu,3
+jammu,jammu,jammu,22
+samba,samba,jammu,8
+devbhoomi dwarka,devbhoomi dwarka,jamnagar,1
+jamnagar,jamnagar,jamnagar,75
+jamshedpur,jamshedpur,jamshedpur,40
+janjgir-champa,janjgir-champa,janjgir-champa,2
+jaunpur,jaunpur,jaunpur,8
+jhalawar,jhalawar,jhalawar,1
+baran,baran,Jhalawar-baran,6
+jhansi,jhansi,jhansi,2
+jhunjhunu,jhunjhunu,jhunjhunu,2
+jodhpur,jodhpur,jodhpur,11
+jorhat,jorhat,jorhat,3
+sivasagar,sivasagar,jorhat,5
+ambujanagar,junagadh,junagadh,2
+gir somnath,gir somnath,junagadh,4
+junagadh,junagadh,junagadh,2
+sutrapada,gir somnath,junagadh,1
+veraval,gir somnath,junagadh,2
+bhuj,kutch,kachchh,7
+"kutch, KACHCHH ","kutch, KACHCHH ",kachchh,172
+kadapa,kadapa,kadapa,11
+kakinada,kakinada,kakinada,1
+lanjigarh,kalahandi,kalahandi,1
+golaghat,golaghat,kaliabor,3
+ambernath,thane,kalyan,40
+ambivli,palghar ,kalyan,1
+kalwe,thane,kalyan,4
+chengalpattu,chengalpattu,kanchipuram,1
+"kanchipuram, KANCHEEPURAM ","kanchipuram, KANCHEEPURAM ",kanchipuram,127
+siruseri,chengalpattu,kanchipuram,3
+chamba,chamba,kangra,3
+kangra,kangra,kangra,244
+sanjpoi,chamba,kangra,1
+kannur,kannur,kannur,1
+"kanpur, kanpur dehat , kanpur nagar ","kanpur, kanpur dehat , kanpur nagar ",kanpur,32
+"kanyakumari, KANNIYAKUMARI ","kanyakumari, KANNIYAKUMARI ",kanyakumari,26
+hailakandi,hailakandi,karimganj,2
+karimnagar,karimnagar,karimnagar,29
+karnal,karnal,karnal,6
+panipat,panipat,karnal,6
+karur,karur,karur,6
+vadamadurai,dindigul,karur,2
+joda,Kendujhar,keonjhar,2
+"kendujhar, KEONJHAR ","kendujhar, KEONJHAR ",keonjhar,38
+kapurthala,kapurthala,khadoor sahib,4
+rawan,kapurthala,khadoor sahib,1
+tarn taran,tarn taran,khadoor sahib,1
+chhatarpur,chhatarpur,khajuraho,1
+katni,katni,khajuraho,6
+khammam,khammam,khammam,20
+warangal,warangal,khammam,11
+khargone,khargone,khargone,9
+relwa khurd,barwani,khargone,2
+kheda,kheda,kheda,1
+khunti,khunti,khunti,1
+salakati,kokrajhar,kokrajhar,6
+kolar,kolar,kolar,10
+karveer,Kolhapur,kolhapur,1
+kolhapur,kolhapur,kolhapur,54
+"kolkata, KOLKATA DAKSHIN ","kolkata, KOLKATA DAKSHIN ",kolkata dakshin,100
+"kolkata, KOLKATA UTTAR ","kolkata, KOLKATA UTTAR ",kolkata uttar,98
+koppal,koppal,koppal,9
+koraput,koraput,koraput,1
+rayagada,rayagada (OD),koraput,2
+korba,korba,korba,9
+koriya,koriya,korba,2
+kota,kota,kota,13
+kottayam,kottayam,kottayam,5
+nandigama,krishna,krishna,1
+hosur,Krishnagiri,Krishnagiri,17
+jujuvadi,Krishnagiri,Krishnagiri,2
+"krishnagiri, krisnagiri ","krishnagiri, krisnagiri ",Krishnagiri,4
+moranapalli,Krishnagiri,Krishnagiri,1
+kosigi,kurnool,kurnool,1
+kurnool,kurnool,kurnool,39
+"kushinagar, KUSHI NAGAR ","kushinagar, KUSHI NAGAR ",kushinagar,3
+alchi,leh,ladakh,15
+chutak,Kargil,ladakh,1
+salal,reasi (JK),ladakh,1
+"lakhimpur, lakhimpur kheri ","lakhimpur, lakhimpur kheri ",lakhimpur,3
+latur,latur,latur,1
+lohardaga,lohardaga,lohardaga,1
+lucknow,lucknow,lucknow,39
+ludhiana,ludhiana,ludhiana,60
+gannavaram,Krishna,machilipatnam,1
+pamarru,krishna,machilipatnam,2
+koshi,saharsa,madhepura,1
+madhubani,madhubani,madhubani,1
+madurai,madurai,madurai,40
+paravai,madurai,madurai,1
+hanwada,Mahbubnagar,mahabubnagar,1
+mahabubnagar,mahabubnagar,mahabubnagar,18
+sarapaka,khammam,mahbubabad,1
+nawabpet,vikarabad,mahbubnagar,1
+"mehsana, MAHESANA ","mehsana, MAHESANA ",mahesana,22
+farakka,Murshidabad,maldaha dakshin,6
+aliabad,ranga reddy,malkajgiri,2
+kotli,kotli,mandi,1
+kullu,kullu,mandi,4
+mandi,mandi,mandi,1
+"mandal, MANDLA ","mandal, MANDLA ",mandla,6
+"mandsaur, MANDSOUR ","mandsaur, MANDSOUR ",mandsour,2
+neemuch,neemuch,mandsour,1
+mandya,mandya,mandya,3
+darrang,darrang,mangaldoi,2
+udalguri,udalguri,mangaldoi,7
+gauhari,Mathura,mathura,4
+mathura,mathura,mathura,8
+pujali m,South 24 Parganas,mathurapur,3
+south 24 parganas,south 24 parganas,mathurapur,17
+khopoli,Raigarh(MH),maval,3
+sangavi,pune,maval,1
+varale,pune,maval,2
+mayurbhanj,mayurbhanj,mayurbhanj,3
+borpatla,Medak,medak,1
+medak,medak,medak,114
+patancheru,medak,medak,5
+sangareddy,sangareddy,medak,1
+kharagpur,Paschim Medinipur,medinipur,2
+purba medinipur,purba medinipur,medinipur,25
+west medinipur,west medinipur,medinipur,29
+hapur,hapur,meerut,4
+meerut,meerut,meerut,13
+moradabad,moradabad,moradabad,13
+morena,morena,morena,8
+"mumbai, MUMBAI NORTH ","mumbai, MUMBAI NORTH ",mumbai north,60
+"mumbai city, MUMBAI NORTH CENTRAL ","mumbai city, MUMBAI NORTH CENTRAL ",mumbai north central,60
+"mumbai suburban, MUMBAI NORTH EAST ","mumbai suburban, MUMBAI NORTH EAST ",mumbai north east,61
+"mumbai, MUMBAI NORTH WEST ","mumbai, MUMBAI NORTH WEST ",mumbai north west,61
+"mumbai, MUMBAI SOUTH ","mumbai, MUMBAI SOUTH ",mumbai south,60
+"mumbai, MUMBAI SOUTH CENTRAL ","mumbai, MUMBAI SOUTH CENTRAL ",mumbai south central,61
+munger,munger,munger,1
+murshidabad,murshidabad,murshidabad,1
+muzaffarnagar,muzaffarnagar,muzaffarnagar,12
+muzaffarpur,muzaffarpur,muzaffarpur,3
+ilavala hobli,Mysore,mysore,2
+kodagu,"kodagu, Coorg",mysore,1
+mysore,mysore,mysore,86
+nabarangpur,nabarangpur,nabarangpur,1
+mon,mon,nagaland,1
+nagapattinam,nagapattinam,nagapattinam,8
+kalwakurthy,Nagarkurnool,Nagarkurnool,1
+noorpur dehat,saharanpur,nagina,2
+khapri,Nagpur,nagpur,1
+"nagpur, nagapur ","nagpur, nagapur ",nagpur,463
+khatima,Udham Singh Nagar,NAINITAL-UDHAMSINGH NAGAR,1
+nainital,nainital,NAINITAL-UDHAMSINGH NAGAR,7
+pantnagar,Udham Singh Nagar,NAINITAL-UDHAMSINGH NAGAR,5
+rudrapur,Udham Singh Nagar,NAINITAL-UDHAMSINGH NAGAR,1
+udham singh nagar,udham singh nagar,NAINITAL-UDHAMSINGH NAGAR,201
+pawa,nalanda,nalanda,2
+kodad,suryapet,nalgonda,1
+nalgonda,nalgonda,NALGONDA,41
+suryapet,suryapet,nalgonda,2
+namakkal,namakkal,NAMAKKAL,2
+nanded,nanded,NANDED,8
+chhadvel korde,Dhule,nandurbar,1
+nandurbar,nandurbar,NANDURBAR,1
+vinukonda,guntur,narasaraopet,1
+mundhegaon,nashik,NASHIK,4
+nashik,nashik,NASHIK,205
+navsari,navsari,NAVSARI,1
+bayyavaram,vishakhapatnam,nellore,1
+chodavaram,vishakhapatnam,nellore,1
+duttalur,Nellore,Nellore,1
+kasimkota,vishakhapatnam,nellore,1
+nellore,nellore,nellore,31
+sri potti sriramulu nellore district,Nellore,nellore,3
+new delhi,new delhi,new delhi,90
+cherambadi,Nilgiris,nilgiris,1
+nilgiris,nilgiris,nilgiris,1
+sathyamangalam,erode,nilgiris,1
+nizamabad,nizamabad,nizamabad,10
+calangute,North Goa,North Goa,1
+colvale,North Goa,North Goa,2
+north goa,north goa,north goa,80
+panaji,north goa,north goa,8
+north delhi,north delhi,north west delhi,1
+north west delhi,north west delhi,north west delhi,18
+shakti nagar,north delhi,north west delhi,6
+nagaon,nagaon,nowgong,1
+bestavaripeta,prakasam,ongole,1
+prakasam,prakasam,ongole,24
+osmanabad,osmanabad,osmanabad,2
+churachandpur,churachandpur,outer manipur,1
+palakkad,palakkad,palakkad,15
+palamu,palamu,palamu,1
+Banas Kantha,Banas Kantha,palanpur,2
+chandisar,Banas Kantha,palanpur,1
+palghar,palghar,palghar,48
+sativli,thane,palghar,1
+pali,pali,pali,2
+panchmahal,panchmahal,panchmahal,39
+parbhani,parbhani,parbhani,31
+charanka,Patan,patan,2
+patan,patan,patan,80
+pathanamthitta,pathanamthitta,pathanamthitta,2
+patiala,patiala,patiala,6
+"patna, PATNA SAHIB ","patna, PATNA SAHIB ",patna sahib,36
+ramagundam,pedapalli,PEDDAPALLE,5
+perambalur,perambalur,perambalur,1
+eripakkam,Pondicherry,Pondicherry,5
+"pondicherry, puducherry ","pondicherry, puducherry ",PONDICHERRY,58
+sedarapet,Pondicherry,Pondicherry,1
+yanam,yanam (PY),PONDICHERRY,2
+porbandar,porbandar,porbandar,7
+pune,pune,pune,783
+nayagarh,nayagarh,puri,1
+purulia,purulia,purulia,7
+rae bareli,rae bareli,rae bareli,12
+raichur,raichur,raichur,6
+dhokawade,Raigarh(MH),raigad,1
+raigad,raigad (MH),raigad,606
+raigarh,raigarh (CH),raigarh,32
+baloda bazar,baloda bazar-bhatapara,raipur,1
+raipur,raipur,raipur,33
+siltara,raipur,raipur,1
+bikkavolu,East Godavari,rajahmundry,9
+rajgarh,rajgarh,rajgarh,2
+rajkot,rajkot,rajkot,20
+rajnandgaon,rajnandgaon,rajnandgaon,7
+rajsamand,rajsamand,rajsamand,4
+ramanathapuram,ramanathapuram,ramanathapuram,1
+rampur,rampur (UP),rampur,9
+savner,nagpur,ramtek,2
+nadia,nadia,ranaghat,2
+ranchi,ranchi,ranchi,47
+ratlam,ratlam,ratlam,8
+ratnagiri,ratnagiri,ratnagiri,29
+sindhudurg,sindhudurg,RATNAGIRI SINDHUDURG,3
+rewa,rewa,rewa,3
+sirmaur,sirmaur,rewa,46
+renukoot,sonbhadra,ROBERTSGANJ,2
+rihand nagar,sonbhadra,ROBERTSGANJ,6
+sonbhadra,sonbhadra,ROBERTSGANJ,14
+bahadurgarh,jhajjar,rohtak,6
+jhajjar,jhajjar,rohtak,16
+rohtak,rohtak,rohtak,5
+sabarkatha,sabarkatha,SABARKANTHA,3
+saharanpur,saharanpur,saharanpur,20
+salem,salem,salem,33
+samastipur,samastipur,samastipur,1
+hirakud,Sambalpur,sambalpur,1
+sambalpur,sambalpur,sambalpur,3
+sambhal,sambhal,sambhal,4
+sangli,sangli,sangli,10
+ahmedgrah,sangrur,sangrur,6
+barnala,barnala,sangrur,189
+sangrur,sangrur,sangrur,6
+sant kabir nagar,sant kabir nagar,sant kabir nagar,1
+kaimur,kaimur,sasaram,2
+rohtas,rohtas (BR),sasaram,2
+khandala,satara,satara,2
+satara,satara,satara,60
+satna,satna,satna,10
+"secunderabad, sikandrabad ","secunderabad, sikandrabad ",SECUNDERABAD,17
+anuppur,anuppur,shahdol,19
+shahdol,shahdol,shahdol,270
+shahjahanpur,shahjahanpur,shahjahanpur,5
+east jaintia hills,east jaintia hills,shillong,2
+ri-bhoi,ri-bhoi,shillong,1
+baddi,solan,shimla,1
+nalagarh,solan,shimla,3
+parwanoo,solan,shimla,3
+shimla,shimla,shimla,11
+solan,solan,shimla,152
+shimoga,shimoga,shimoga,4
+mahalunge ingale,pune,shirur,1
+nighoje,pune,shirur,3
+pimpri-chinchwad,pune,shirur,6
+ranjangaon,Ahmed nagar,shirur,2
+sanaswadi,pune,shirur,1
+shikrapur,pune,shirur,1
+wagholi,satara,shirur,1
+sidhi,sidhi,sidhi,2
+singrauli,singrauli,sidhi,19
+sikar,sikar,sikar,2
+east sikkim,east sikkim,sikkim,5
+samlik-marchak,east sikkim,sikkim,3
+south sikkim,south sikkim,sikkim,5
+west sikkim,west sikkim,sikkim,6
+east singhbhum,east singhbhum,singhbhum,33
+seraikela kharsawan,seraikela kharsawan (JH),SINGHBHUM,14
+west singhbhum,west singhbhum,SINGHBHUM,4
+sitamarhi,sitamarhi,sitamarhi,2
+sitapur,sitapur,sitapur,12
+sivaganga,sivaganga,sivaganga,4
+borgaon,Solapur,solapur,1
+solapur,solapur,solapur,34
+sonipat,sonipat,sonipat,16
+south delhi,south delhi,south delhi,15
+south west delhi,south west delhi,south delhi,16
+kundaim,North Goa,South goa,1
+ponda,north goa,south goa,28
+sancoale,south goa,south goa,1
+South goa,South goa,South goa,38
+verna,south goa,south goa,5
+srikakulam,srikakulam,srikakulam,25
+irungattukottai,Kancheepuram,sriperumbudur,1
+mevalurkuppam,Kancheepuram,sriperumbudur,2
+sriperumbudur,sriperumbudur,sriperumbudur,3
+sultanpur,sultanpur,sultanpur,6
+rourkela,sundargarh (OD),sundargarh,1
+sundargarh,sundargarh,sundargarh,29
+supaul,supaul,supaul,1
+surat,surat,surat,338
+fulwadi,Surendranagar,surendranagar,1
+surendranagar,surendranagar,surendranagar,6
+haldia,Purba Medinipur,tamluk,1
+mussoorie,dehradun,tehri garhwal,1
+uttarkashi,uttarkashi,tehri garhwal,2
+sonitpur,sonitpur,tezpur,8
+navi mumbai,thane,thane,61
+thane,thane,thane,1
+thane,thane,thane,325
+thanjavur,thanjavur,thanjavur,5
+theni,theni,theni,3
+thiruvananthapuram,thiruvananthapuram,thiruvananthapuram,5
+thoothukudi,thoothukudi,thoothukudi,21
+thrissur,thrissur,THRISSUR,5
+pudukkottai,pudukkottai,TIRUCHIRAPPALLI,13
+tiruchirappalli,tiruchirappalli,TIRUCHIRAPPALLI,5
+tirunelveli,tirunelveli,tirunelveli,78
+gudur,Nellore,tirupati,1
+perundurai,erode,tiruppur,3
+tiruppur,tiruppur,tiruppur,37
+gummidipundi,Thiruvallur,TIRUVALLUR,2
+kuruvimedu,Thiruvallur,TIRUVALLUR,1
+tiruvallur,tiruvallur,tiruvallur,136
+tiruvannamalai,tiruvannamalai,tiruvannamalai,5
+tonk,tonk,tonk,8
+sawai madhopur,sawai madhopur,TONK-SAWAI MADHOPUR,2
+korahavali,tumkur,tumkur,2
+tumakuru,tumakuru,tumkur,1
+tumkur,tumkur,tumkur,8
+udaipur,udaipur,udaipur,12
+kathua,kathua,udhampur,3
+udhampur,udhampur,udhampur,2
+udupi,udupi,udupi,10
+chikkamagaluru,chikkamagaluru,udupi chimagalur,3
+ujjain,ujjain,ujjain,10
+unnao,unnao,unnao,6
+uttara kannada,uttara kannada,uttara kannada,4
+asoj,vadodara,vadodara,5
+limda,vadodara,vadodara,1
+vadodara,vadodara,vadodara,362
+vaishali,vaishali,vaishali,6
+umargam,valsad,valsad,1
+valsad,valsad,valsad,126
+vapi,valsad,valsad,13
+varanasi,varanasi,varanasi,11
+"vellore, vellore dist ","vellore, vellore dist ",vellore,28
+velur,vellore,vellore,2
+raisen,raisen,vidisha,36
+sehore,sehore,vidisha,64
+krishna,krishna,vijayawada,86
+vijayawada,vijayawada,vijayawada,4
+villupuram,villupuram,villupuram,14
+sundararajapuram,virudhunagar,virudhunagar,1
+virudhunagar,virudhunagar,virudhunagar,6
+"visakhapatnam, vishakhapatnam ","visakhapatnam, vishakhapatnam ",VISAKHAPATNAM,122
+gantyada,Vizianagaram,VIZIANAGARAM,1
+vizianagaram,vizianagaram,VIZIANAGARAM,21
+wardha,wardha,wardha,3
+west delhi,west delhi,west delhi,4
+washim,washim,YAVATMAL-WASHIM,1
+yavatmal,yavatmal,YAVATMAL-WASHIM,14
+pitlam,kamareddy,zahirabad,1
+zaheerabad,zaheerabad,ZAHIRABAD,1
